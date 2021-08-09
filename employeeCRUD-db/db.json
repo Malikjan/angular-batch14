@@ -1,0 +1,106 @@
+{
+  "employee": [
+    {
+      "firstName": "Seema",
+      "lastName": "Yadhav",
+      "designation": "Manager",
+      "address": "Pune",
+      "code": "emp-050",
+      "department": "hr",
+      "gender": "Female",
+      "id": 6
+    },
+    {
+      "firstName": "Gopal",
+      "lastName": "Dev",
+      "designation": "Angular Developer",
+      "address": "Pune",
+      "code": "emp-011",
+      "department": "software",
+      "gender": "Female",
+      "id": 7
+    },
+    {
+      "firstName": "Deepak",
+      "lastName": "Sharma",
+      "designation": "Manager",
+      "address": "Mumbai",
+      "code": "emp-012",
+      "department": "hr",
+      "gender": "Male",
+      "id": 8
+    },
+    {
+      "firstName": "Seeta",
+      "lastName": "Varma",
+      "designation": "Manager",
+      "address": "Pune",
+      "code": "emp-013",
+      "department": "it",
+      "gender": "Female",
+      "id": 9
+    },
+    {
+      "firstName": "A",
+      "lastName": "a",
+      "designation": "a",
+      "address": "a",
+      "code": "a",
+      "department": "it",
+      "gender": "Male",
+      "id": 10
+    },
+    {
+      "firstName": "Z",
+      "lastName": "jbj",
+      "designation": "kbjk",
+      "address": "bjk",
+      "code": "bkb",
+      "department": "sales",
+      "gender": "",
+      "id": 11
+    },
+    {
+      "firstName": "GG",
+      "lastName": "jbkj",
+      "designation": "b",
+      "address": "bjk",
+      "code": "k",
+      "department": "sales",
+      "gender": "Female",
+      "id": 12
+    },
+    {
+      "firstName": "mkj",
+      "lastName": "nj",
+      "designation": "nj",
+      "address": "nnj",
+      "code": "knj",
+      "department": "sales",
+      "gender": "Male",
+      "id": 13
+    }
+  ],
+  "department": [
+    {
+      "id": 1,
+      "name": "IT",
+      "value": "it"
+    },
+    {
+      "id": 2,
+      "name": "HR",
+      "value": "hr"
+    },
+    {
+      "id": 3,
+      "name": "Software",
+      "value": "software"
+    },
+    {
+      "id": 4,
+      "name": "Sales",
+      "value": "sales"
+    }
+  ]
+}

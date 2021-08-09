@@ -1,0 +1,15 @@
+.header{
+    height: 60px;
+    background: black;
+    color: white;
+    text-align: center;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    text-align: center;
+    background: lightcyan;
+}

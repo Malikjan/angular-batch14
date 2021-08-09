@@ -1,0 +1,88 @@
+{
+  "employee": [
+    {
+      "firstName": "Seema",
+      "lastName": "Yadhav",
+      "designation": "Manager",
+      "address": "Pune",
+      "code": "emp-050",
+      "department": "hr",
+      "gender": "Female",
+      "id": 6
+    },
+    {
+      "firstName": "Gopal",
+      "lastName": "Dev",
+      "designation": "Angular Developer",
+      "address": "Pune",
+      "code": "emp-011",
+      "department": "software",
+      "gender": "Female",
+      "id": 7
+    },
+    {
+      "firstName": "Deepak",
+      "lastName": "Sharma",
+      "designation": "Manager",
+      "address": "Mumbai",
+      "code": "emp-012",
+      "department": "hr",
+      "gender": "Male",
+      "id": 8
+    },
+    {
+      "firstName": "Seeta",
+      "lastName": "Varma",
+      "designation": "Manager",
+      "address": "Pune",
+      "code": "emp-013",
+      "department": "it",
+      "gender": "Female",
+      "id": 9
+    }
+  ],
+  "manager": [
+    {
+      "firstName": "Seeta",
+      "lastName": "Varma",
+      "designation": "Manager",
+      "address": "Pune",
+      "code": "emp-013",
+      "department": "it",
+      "gender": "Female",
+      "contactNumber": "+91 7854215478",
+      "panCardNumber": "FF7887RRU",
+      "id": 9
+    },
+    {
+      "firstName": "Neeta",
+      "lastName": "Sharma",
+      "designation": "Manager",
+      "address": "Pune",
+      "code": "emp-013",
+      "department": "it",
+      "gender": "Female",
+      "contactNumber": "+91 8754215478",
+      "panCardNumber": "TTUUU745U",
+      "id": 10
+    }
+  ],
+  "company": [
+    {
+      "id": 100,
+      "name": "ab tech ",
+      "location": "Pune",
+      "website": "www.ab.com",
+      "contactNumber": "+20 451254",
+      "gstNumber": "gst-100"
+    },
+    {
+      "id": 101,
+      "name": "xy tech ",
+      "location": "Pune",
+      "website": "www.xy.com",
+      "contactNumber": "+20 45451254",
+      "gstNumber": "gst-101"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+<div class="header">
+  <app-header></app-header>
+</div>
+
+<div class="m-4">
+  <table class="table">
+    <tr *ngFor="let emp of allEmployee | async">
+      <td>{{emp.firstName}}</td>
+      <td>{{emp.lastName}}</td>
+      <td>{{emp.address}}</td>
+      <td>{{emp.code}}</td>
+    </tr>
+  </table>
+</div>
+
+<button (click)="next()">Next REQ</button>
+DEMO
